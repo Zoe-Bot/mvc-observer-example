@@ -1,11 +1,8 @@
 {
     "compilerOptions": {
       "module": "commonjs",
-      "noImplicitAny": true,
+      "lib": ["es5", "es6", "dom"],
       "removeComments": true,
       "preserveConstEnums": true,
-      "outDir": "build",
-      "sourceMap": true
-    },
-    "include": ["src/**/*"],
+    }
 }

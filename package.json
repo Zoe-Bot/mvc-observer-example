@@ -1,0 +1,26 @@
+{
+  "name": "mvco-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoe-Bot/mvc-observer-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoe-Bot/mvc-observer-example/issues"
+  },
+  "homepage": "https://github.com/Zoe-Bot/mvc-observer-example#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "ts-loader": "^9.2.3"
+  }
+}
