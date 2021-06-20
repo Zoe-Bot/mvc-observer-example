@@ -1,3 +1,6 @@
-export class Observer {
-    
+export interface Observer {
+    /**
+     * update
+     */
+    update(color: string)
 }
